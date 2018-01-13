@@ -2,9 +2,9 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: *Mespirit*
 
-SRS ID: *CST???SRS00*
+SRS ID: *CST162SRS00*
 
 Unresolved Issues:  None. 
 
